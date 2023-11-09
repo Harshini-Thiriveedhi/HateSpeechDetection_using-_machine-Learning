@@ -3,4 +3,4 @@ Social media is a growing platform where different users share their ideas and s
 Hate speech detection is the model which identifies and detects hateful and offensive speech being poured on the internet. So hate speech detection has become an important solution to problems in today’s online world.
 So our project uses a Decision tree classifier algorithm for building the Hate Speech detection model which detects whether there exists hate/offensive speech in the social media.
 
-Technologies used-pandas,numpy,NLTK
+Tech stack used-pandas,numpy,NLTK
